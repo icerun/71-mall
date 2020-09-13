@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="71admin-tools" />
+        <module name="71admin-logging" />
+        <module name="71admin-system" />
+        <module name="71admin-common" />
+        <module name="71admin-generator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="71admin" target="1.8" />
+      <module name="71admin-common" target="1.8" />
+      <module name="71admin-generator" target="1.8" />
+      <module name="71admin-logging" target="1.8" />
+      <module name="71admin-system" target="1.8" />
+      <module name="71admin-tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

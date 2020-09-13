@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/71-mall.iml" filepath="$PROJECT_DIR$/.idea/71-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71admin-backend/71admin-common/71admin-common.iml" filepath="$PROJECT_DIR$/71admin-backend/71admin-common/71admin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71admin-backend/71admin-generator/71admin-generator.iml" filepath="$PROJECT_DIR$/71admin-backend/71admin-generator/71admin-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71admin-backend/71admin-logging/71admin-logging.iml" filepath="$PROJECT_DIR$/71admin-backend/71admin-logging/71admin-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71admin-backend/71admin-system/71admin-system.iml" filepath="$PROJECT_DIR$/71admin-backend/71admin-system/71admin-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71admin-backend/71admin-tools/71admin-tools.iml" filepath="$PROJECT_DIR$/71admin-backend/71admin-tools/71admin-tools.iml" />
+    </modules>
+  </component>
+</project>
